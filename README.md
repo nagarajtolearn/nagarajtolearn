@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagarajtolearn
+- 👋 Hi, I’m Nagaraj Biradar
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning HTML, CSS, JS and React
 - 💞️ I’m looking to collaborate on Frontend Development
