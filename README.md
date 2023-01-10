@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/nagaraj6biradar" target="blank"><img src="https://img.shields.io/twitter/follow/nagaraj6biradar?logo=twitter&style=for-the-badge" alt="nagaraj6biradar" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m Fullstack Web Developer **React, Node, Javascript, TailwindCSS, Bootstrap, MUI, Solidity, Web3.0, Hardhat, Blockchain, Ethereum, Alchemy, EtherJS**
 
-- 💬 Ask me about **web developement,Javascript, ReactJS**
+- 💬 Ask me about **Web Developement,Javascript, ReactJS, Blockchain, Solidity**
 
 - 📫 How to reach me **nagarajtolearn@gmail.com**
 
